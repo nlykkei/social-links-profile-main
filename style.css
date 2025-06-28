@@ -74,7 +74,7 @@ body {
 
 .card__name {
   margin-top: 1.4rem; /* 15px */
-  font-weight: 600;
+  font-weight: 400;
   font-size: 2.4rem; /* 24px */
   color: var(--white-color);
 }
